@@ -1,0 +1,10 @@
+# 密鑰與 OAuth token
+.env
+.cache
+.cache-*
+
+# 執行產出
+last_playlist.json
+
+__pycache__/
+*.pyc
