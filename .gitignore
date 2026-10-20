@@ -8,3 +8,6 @@ last_playlist.json
 
 __pycache__/
 *.pyc
+
+# 定時執行的 log
+sync.log
